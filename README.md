@@ -2,6 +2,7 @@
 # Data Visualization Projects
 
 ## About
+This repository attempts to document my data visualization projects for data analysis purposes. Currently, my first project in this repository visualizes satisfaction rate based on a customer survey on a website with 10-point Likert scale.
 
 ## Folder Organization
 
